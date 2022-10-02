@@ -2,4 +2,6 @@
 /logs
 .env
 .vscode
+composer.phar
 composer.lock
+.DS_Store
